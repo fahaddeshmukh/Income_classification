@@ -52,5 +52,5 @@ To use this project, follow the steps below:
 For any questions, suggestions, or issues, please feel free to contact:
 
 - Name: Fahad Deshmukh
-- Matricultion number: 821330
+
 - Email: deshmukh@uni-potsdam.de
